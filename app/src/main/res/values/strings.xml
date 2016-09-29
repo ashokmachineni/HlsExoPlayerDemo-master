@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo Video Player</string>
+    //http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+    //http://walterebert.com/playground/video/hls/sintel-trailer.m3u8
+    <string name="video_url">http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8</string>
+    <string name="video_player_error">Unfortunately, an error occurred during playback.</string>
+</resources>
